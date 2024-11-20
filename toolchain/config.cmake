@@ -4,7 +4,7 @@ set(REAVEROS_CMAKE_PATTERN v[0-9]+\.[0-9]+\.[0-9]+)
 set(REAVEROS_CMAKE_EXCLUDE "")
 
 set(REAVEROS_LLVM_REPO https://github.com/llvm/llvm-project)
-set(REAVEROS_LLVM_TAG llvmorg-16.0.6)
+set(REAVEROS_LLVM_TAG llvmorg-17.0.5)
 set(REAVEROS_LLVM_PATTERN llvmorg-[0-9]+\.[0-9]+\.[0-9]+)
 set(REAVEROS_LLVM_EXCLUDE llvmorg-.*-init)
 
