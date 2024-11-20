@@ -1,5 +1,5 @@
 set(REAVEROS_CMAKE_REPO https://github.com/Kitware/CMake)
-set(REAVEROS_CMAKE_TAG v3.30.1)
+set(REAVEROS_CMAKE_TAG v3.30.3)
 set(REAVEROS_CMAKE_PATTERN v[0-9]+\.[0-9]+\.[0-9]+)
 set(REAVEROS_CMAKE_EXCLUDE "")
 
