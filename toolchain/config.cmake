@@ -14,6 +14,6 @@ set(REAVEROS_DOSFSTOOLS_PATTERN v[0-9]+\.[0-9]+)
 set(REAVEROS_DOSFSTOOLS_EXCLUDE "")
 
 set(REAVEROS_MTOOLS_DIR ftp://ftp.gnu.org/gnu/mtools/)
-set(REAVEROS_MTOOLS_VER mtools-4.0.47.tar.gz)
+set(REAVEROS_MTOOLS_VER mtools-4.0.48.tar.gz)
 set(REAVEROS_MTOOLS_PATTERN mtools-[0-9]+\.[0-9]+\.[0-9]+\.tar\.gz)
 set(REAVEROS_MTOOLS_EXCLUDE "")
